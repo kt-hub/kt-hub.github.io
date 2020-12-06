@@ -15,4 +15,3 @@ xdebug.remote_connect_back = 1
 xdebug.remote_port = 9000
 xdebug.client_port = 9000
 ```
-
