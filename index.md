@@ -1,6 +1,7 @@
 # index
 
 ## VScodeでxdebugを使う方法を検証
+
 vs codeでXdebugを使う方法を検証してみた。
 結論から言うと、以下のようにphp.iniを変更する感じ。
 
