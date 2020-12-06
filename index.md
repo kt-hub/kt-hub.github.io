@@ -3,8 +3,6 @@
 ## VScodeでxdebugを使う方法を検証
 vs codeでXdebugを使う方法を検証してみた。
 結論から言うと、以下のようにphp.iniを変更する感じ。
-あとは
-
 
 ```php.ini
 [XDebug]
@@ -18,4 +16,3 @@ xdebug.remote_port = 9000
 xdebug.client_port = 9000
 ```
 
-PHPのiniファイルの設定に戸惑って午前中いっぱいかかってしまった。
